@@ -86,5 +86,5 @@
         <variable name="APP_NAME" value="CodeFlix" />
     </plugin>
     <engine name="browser" spec="~4.1.0" />
-    <engine name="android" spec="~6.1.2" />
+    <engine name="android" spec="~7.0.0" />
 </widget>
